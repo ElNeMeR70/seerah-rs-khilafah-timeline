@@ -1,0 +1,10 @@
+[package]
+name = "seerah-rs-khilafah-timeline"
+version = "1.0.0"
+edition = "2021"
+description = "Rashidun Caliphate (11-40 AH) Chronological Event & Diwan Indexer"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "seerah_rs_khilafah_timeline"
+path = "main.rs"
